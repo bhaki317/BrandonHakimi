@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h1>Hi, I'm Brandon! <br/><a href="https://github.com/BrandonHakimi">Programmer</a>, and <a href="https://www.linkedin.com/in/brandon-hakimi-807507205/">Senior Studying Computer Science</a>
+<h1>Hi, I'm Brandon! <br/><a href="https://github.com/BrandonHakimi">Programmer</a> and <a href="https://www.linkedin.com/in/brandon-hakimi-807507205/">Senior Studying Computer Science</a>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
